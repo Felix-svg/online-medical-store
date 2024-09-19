@@ -31,6 +31,7 @@ namespace OnlineMedicalStore
                     case "3":
                         flag = false;
                         Console.WriteLine("Goodbye");
+                        Environment.Exit(1);
                         break;
                 }
             } while (flag);
@@ -66,6 +67,7 @@ namespace OnlineMedicalStore
                 {
                     flag = false;
                     currentLoggedInUser = user;
+                    SubMenu();
                     break;
                 }
             }
@@ -74,7 +76,6 @@ namespace OnlineMedicalStore
                 Console.WriteLine("Invalid User ID. Please enter a valid one");
                 UserLogin();
             }
-            SubMenu();
         }
 
         public static void SubMenu()

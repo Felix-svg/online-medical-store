@@ -12,3 +12,4 @@ D:\Development\OnlineMedicalStore\obj\Debug\net8.0\refint\OnlineMedicalStore.dll
 D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.pdb
 D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.genruntimeconfig.cache
 D:\Development\OnlineMedicalStore\obj\Debug\net8.0\ref\OnlineMedicalStore.dll
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.sourcelink.json
