@@ -293,8 +293,8 @@ namespace OnlineMedicalStore
 
         public static void DefaultData()
         {
-            users.Add(new("Ravi", 33, "Theni", "9877774440", 400));
-            users.Add(new("Baskaran", 33, "Chennai", "9888475757", 500));
+            users.Add(new("John", 33, "Knowhere", "9877774440", 400));
+            users.Add(new("Jane", 33, "Vomir", "9888475757", 500));
 
             medicines.Add(new("Paracentamol", 40, 5, DateTime.Parse("30/12/2024")));
             medicines.Add(new("Calpol", 10, 5, DateTime.Parse("30/11/2024")));
