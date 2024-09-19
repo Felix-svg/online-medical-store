@@ -1,0 +1,14 @@
+D:\Development\OnlineMedicalStore\bin\Debug\net8.0\OnlineMedicalStore.exe
+D:\Development\OnlineMedicalStore\bin\Debug\net8.0\OnlineMedicalStore.deps.json
+D:\Development\OnlineMedicalStore\bin\Debug\net8.0\OnlineMedicalStore.runtimeconfig.json
+D:\Development\OnlineMedicalStore\bin\Debug\net8.0\OnlineMedicalStore.dll
+D:\Development\OnlineMedicalStore\bin\Debug\net8.0\OnlineMedicalStore.pdb
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.AssemblyInfoInputs.cache
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.AssemblyInfo.cs
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.csproj.CoreCompileInputs.cache
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.dll
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\refint\OnlineMedicalStore.dll
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.pdb
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\OnlineMedicalStore.genruntimeconfig.cache
+D:\Development\OnlineMedicalStore\obj\Debug\net8.0\ref\OnlineMedicalStore.dll
